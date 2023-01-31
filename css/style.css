@@ -273,3 +273,13 @@ header{
     margin-top:20px;
 
 }
+
+.subfooter{
+    background-color: #CEEDC7;
+    padding: var(--padding-inline-section);
+
+}
+.subfooter-container{
+    justify-content: center;
+    gap: 30px;
+}
